@@ -26,40 +26,41 @@
 -----------------------------------
 
 🔹 1. Возможность выбора товара по категориям.
-![screen1](https://github.com/LexaCoronos/TelegramChatManager/blob/master/img/screenshot1.jpg)
+![screen1](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/Products.png)
 
 -----------------------------------
 
 🔹 2. Запрос личных данных покупателя перед оплатой, таких как ФИО, номер телефона и Email. Данные прикрепляются к информации о платеже.
-![screen1](https://github.com/LexaCoronos/TelegramChatManager/blob/master/img/screenshot1.jpg)
+![screen2](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/PrepareOrder.jpg)
 
 -----------------------------------
 
 🔹 3. Интеграция бота с онлайн-кассой для автоматического принятия и обработки платежей.
 После выбора товара пользователем и ввода личных данных, будет сгенерирован платеж на оплату.
-![screen1](https://github.com/LexaCoronos/TelegramChatManager/blob/master/img/screenshot1.jpg)
+![screen3](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/PaymentSystem.png)
 
 -----------------------------------
 
 🔹 4. После успешной оплаты покупатель получает товар от бота в виде сообщения с ссылками на документы.
-![screen1](https://github.com/LexaCoronos/TelegramChatManager/blob/master/img/screenshot1.jpg)
+![screen4](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/ItemOfSuccessPay.jpg)
 
 -----------------------------------
 
 🔹 5. Администатору приходят уведомления об успешных оплатах и заброшеных платежах.
 По нажатию кнопки «Подробнее» под таким уведомлением, раскрывается полная информация о заказе.
-![screen1](https://github.com/LexaCoronos/TelegramChatManager/blob/master/img/screenshot1.jpg)
+![screen5](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/OrderSuccess.png)
+![screen6](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/OrderNoSuccess.png)
 
 -----------------------------------
 
 🔹 6. Доступ в админ панель по паролю для просмотра информации по заказам.
-![screen1](https://github.com/LexaCoronos/TelegramChatManager/blob/master/img/screenshot1.jpg)
+![screen6](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/AdminPanel.jpg)
 
 -----------------------------------
 
 🔹 7. Запрос на обратную связь с помощью уведомления с номером телефона клиента.
 Клиент может позвонить по указанному номеру тех.поддержки либо оставить свой номер, который в свою очередь придёт уведомлением запроса о помощи администратору.
-![screen1](https://github.com/LexaCoronos/TelegramChatManager/blob/master/img/screenshot1.jpg)
+![screen7](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/QueryRecall.jpg)
 
 -----------------------------------
 
@@ -68,5 +69,6 @@
 -----------------------------------
 
 🔹 9. Интеграция с кассой проводилась через **WayForPay API** кассы. Вся платёжная система, генератор и обработчик платежей написаны вручную и заточены под данную целевую задачу.
+![screen7](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/WayForPay.png)
 
 
