@@ -42,7 +42,7 @@
 -----------------------------------
 
 🔹 4. После успешной оплаты покупатель получает товар от бота в виде сообщения с ссылками на документы.
-![screen4](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/ItemOfSuccessPay.jpg)
+![screen4](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/ItemOfSuccessPay.png)
 
 -----------------------------------
 
