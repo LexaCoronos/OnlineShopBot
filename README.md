@@ -1,5 +1,7 @@
 # ~ Telegram Bot «OnlineShopBot» ~
 
+![screen1](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/shopping109.png)
+
 **Краткое описание:** Telegram бот для автопродаж товаров с интегрируемой интернет-кассой и приёмом онлайн платежей.
 Товарами выступают электронные юридические документы. Интегрируемая касса **WayForPay**.
 
